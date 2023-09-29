@@ -6,7 +6,7 @@
 
 
 <div align=center>
-	<a href="https://front-gayoung-portfolio.netlify.app/">포트폴리오</a>
+	<a href="https://front-gayoung-portfolio.netlify.app/">✨<h3>Gayoung | Frontend | PORTFOLIO</h3>  </a>
 	<h3>🛠 Tech Stack 🛠</h3>
 
 </div>
