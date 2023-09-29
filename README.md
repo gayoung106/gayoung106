@@ -6,6 +6,7 @@
 
 
 <div align=center>
+	![포트폴리오](https://front-gayoung-portfolio.netlify.app/)
 	<h3>🛠 Tech Stack 🛠</h3>
 
 </div>
